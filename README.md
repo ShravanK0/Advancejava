@@ -1,4 +1,4 @@
-OUTPUT FOR 1,ListInterface:
+OUTPUT FOR 1,ListInterface:<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Exp1ListInterface/ColorSearchArrayList.png<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Exp1ListInterface/DeleteNthElementArrayList.png<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Exp1ListInterface/DisplayWithPositionsLinkedList.png<br>
@@ -12,13 +12,13 @@ https://github.com/ShravanK0/Advancejava/blob/main/Exp1ListInterface/SwapElement
 https://github.com/ShravanK0/Advancejava/blob/main/Exp1ListInterface/WorkedOutEx.png<br>
 
 
-OUTPUT FOR 2,String:
+OUTPUT FOR 2,String:<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab2/MapInterfaceDemo1.png<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab2/MapInterfaceDemo2.png<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab2/PerformanceTest.png<br>
 
 
-OUTPUT FOR 3,String Operation:
+OUTPUT FOR 3,String Operation:<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab3StringOperations/CapitalizeWords.jpeg<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab3StringOperations/CheckNullOrEmpty.png<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab3StringOperations/CheckNumeric.jpeg<br>
@@ -32,20 +32,20 @@ https://github.com/ShravanK0/Advancejava/blob/main/Lab3StringOperations/StringHa
 https://github.com/ShravanK0/Advancejava/blob/main/Lab3StringOperations/StringHandlingDemo2.png<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab3StringOperations/StringTurnC.jpeg<br>
 
-OUTPUT FOR 4,Swings:
+OUTPUT FOR 4,Swings:<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab4Swing/ClockUI.png<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab4Swing/CountryButtonSwing.png<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab4Swing/SwingExample.png<br>
 
 
-OUTPUT FOR 5,SWINGS:
+OUTPUT FOR 5,Swings:<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab5Swing/ColorTabbedPane.png<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab5Swing/CountryCapitalList.png<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab5Swing/JListExample.png<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab5Swing/TabbedPaneExample.png<br>
 
 
-OUTPUT FOR 6,Html:
+OUTPUT FOR 6,Html:<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab6Html/Fact_1.png<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab6Html/Fact_2.png<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab6Html/Prime_1.png<br>
@@ -54,7 +54,7 @@ https://github.com/ShravanK0/Advancejava/blob/main/Lab6Html/VIsitCounterServlet1
 https://github.com/ShravanK0/Advancejava/blob/main/Lab6Html/VisitCounterServlet2.png<br>
 
 
-OUTPUT FOR 7,Servlet:
+OUTPUT FOR 7,Servlet:<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab7Servlet/CookieManagerJSP.png<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab7Servlet/CookieManagerJSP2.png<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab7Servlet/SessionWelcomeJSP1.png<br>
@@ -64,7 +64,7 @@ https://github.com/ShravanK0/Advancejava/blob/main/Lab7Servlet/SessionWelcomeJSP
 
 
 
-OUTPUT FOR 8,JDBC and JSP:
+OUTPUT FOR 8,JDBC and JSP:<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab8JDBCandJSP/Mysql_Update.png<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab8JDBCandJSP/Mysql_select.png<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab8JDBCandJSP/insert.png<br>
@@ -73,7 +73,7 @@ https://github.com/ShravanK0/Advancejava/blob/main/Lab8JDBCandJSP/update.png<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab8JDBCandJSP/updatedreport.png<br>
 
 
-OUTPUT FOR 9,JDBCandJSP:
+OUTPUT FOR 9,JDBCandJSP:<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab8JDBCandJSP/Mysql_Update.png<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab8JDBCandJSP/Mysql_select.png<br>
 https://github.com/ShravanK0/Advancejava/blob/main/Lab8JDBCandJSP/insert.png<br>
